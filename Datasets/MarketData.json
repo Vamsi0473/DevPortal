@@ -1,0 +1,491 @@
+{
+    "KeyMarketplaceDataset":1,
+    "OnlineImageFilePath":"",
+    "MarketplaceShortDescription":"Platts Market Data - Oil gives you the actionable, standardized numbers and transparency you need to spot opportunities and make decisions fast. Following our clearly defined guidelines and specifications, we publish thousands of contract and exchange prices, indexes and forward curves every day. With a range of access options, Platts Market Data — Oil is the most efficient way to receive Platts oil price assessments.",
+    "ThumbnailImageFilePath":"img_marketdata_oil",
+    "SocialSharingImageFilePath":"",
+    "MarketplaceDatasetAdded":"2019-07-09",
+    "MktPlaceDataSetEnhancementDate":"2019-11-09",
+    "MktPlaceDataSetEnhancementDesc":"Trucost data containing global carbon metrics released on Xpressfeed. Coverage includes over 15,000+ public company records, 175+ environmental data points including carbon, water, waste, pollution, energy mix, many dating back to 2005.",
+    "MktPlaceDataSetEnhancementLink":"",
+    "MarketplaceDatasetName":"Platts Market Data - Oil",
+    "MarketplaceLongDescription":"<p>Platts Market Data - Oil gives you the actionable, standardized numbers and transparency you need to spot opportunities and make decisions fast. Following our clearly defined guidelines and specifications, we publish thousands of contract and exchange prices, indexes and forward curves every day. With a range of access options, Platts Market Data — Oil is the most efficient way to receive Platts oil price assessments.</p><p>Spot new opportunities and react quickly. The dynamic nature of the oil market means new opportunities are created all the time. With Platts Market Data’s in-depth coverage you can interpret these opportunities effectively and be the first to act with speed and confidence.</p><ul> <li>Trade at price levels that are in sync with other market participants by having the latest global price assessments at your fingertips</li><li>Find new insights by analyzing forward curves and identifying diverse trading patterns, pricing trends and characteristics</li><li>Simplify and protect your data analysis and modelling process by using our data to easily populate your proprietary financial models</li><li>Develop a robust pricing and business strategy by referencing daily and historical spot and contract price assessments</li><li>Write contracts and negotiate transactions with confidence by understanding price drivers and fluctuation</li></ul><p>Coverage includes:</p><ul> <li>All major global regions covered:</li><li>Term and spot price assessments</li><li>Racks and spot to rack</li><li>Yields and netbacks</li><li>International Crudes</li><li>Refined Products</li><li>NGLs</li><li>Lubes</li><li>Postings</li><li>Feedstocks and Blendstocks</li><li>Propane and LPG</li><li>Derivatives</li><li>Bunker, clean and dirty tanker rates</li><li>Platts eWindow named bids, offers and trades</li></ul>",
+    "MarketplaceDataProvider":"S&P Global Platts",
+    "MarketplaceDataProviderDesc":"S&P Global Platts is the leading independent provider of information, benchmark prices and analytics for the energy and commodities markets. For over 100 years, we&apos;ve brought clarity and transparency to the energy and commodities markets, enabling companies, governments and individuals to act with conviction.",
+    "MaskSPGDestinationPlatform":64,
+    "EarliestRecord":1930,
+    "EarliestSignificantCoverage":1972,
+    "EstimatedDatasetSize":0,
+    "EstimatedDatasetStorage":2.0,
+    "MarketplaceDataSource":"",
+    "OverviewImageFilePath":"",
+    "PointInTime":true,
+    "PointInTimeDescription":"Offers the timestamp of when a specific price is assessed or corrected",
+    "SampleDataLink":"8E3E2BC8-DA15-4E04-87B0-AA7DA28B06A3",
+    "DataDictionaryLink":"2CB06321-E5A3-4726-87CE-923413CA3ADA",
+    "SwaggerInfo":"MarketDataOil",
+    "MarketDatasetDatasets":[
+       {
+          "KeyMarketplaceDatasetRelated":1,
+          "KeyMarketplaceDataset":2,
+          "FormOrder":1
+       },
+       {
+          "KeyMarketplaceDatasetRelated":10,
+          "KeyMarketplaceDataset":2,
+          "FormOrder":1
+       },
+       {
+          "KeyMarketplaceDatasetRelated":7,
+          "KeyMarketplaceDataset":2,
+          "FormOrder":1
+       },
+       {
+          "KeyMarketplaceDatasetRelated":4,
+          "KeyMarketplaceDataset":2,
+          "FormOrder":1
+       }
+    ],
+    "MarketDatasetSearchTags":[
+       {
+          "KeyMarketplaceSearchTag":1,
+          "MarketplaceSearchTag":{
+             "MarketplaceSearchTag":"Alternative"
+          }
+       }
+    ],
+    "MarketplaceDatasetFieldCount":{
+       "MarketplaceDatasetFieldCount":""
+    },
+    "SPGCoverageType":"Commodity",
+    "SPGDatasetFrequency":"Intraday",
+    "SPGDatasetLatency":"Intraday",
+    "DeliveryChannelData":"API, Bulk, Streaming",
+    "GeographicCoverageData":"Global",
+    "IndustryCoverageData":"Energy and Utilities",
+    "CoverageCountData":0,
+    "MarketDatasetResearchs":[
+ 
+    ],
+    "MarketDatasetMIIndustrys":[
+       {
+          "KeyMIIndustryTree":0,
+          "MIIndustryTree":{
+             "IndustryLongName":"All"
+          }
+       }
+    ],
+    "MarketDatasetGeographys":[
+       {
+          "KeyGeographyTree":5,
+          "GeographyTree":{
+             "TreeID":5,
+             "GlobalRegion":{
+                "GlobalRegion":"Global"
+             }
+          }
+       }
+    ],
+    "ActiveMarketplaceDatasetNote":true,
+    "MarketSPGDestinationPlatform":[
+       {
+          "SPGDestinationPlatform":"API",
+          "KeySPGDestinationPlatform":1
+       },
+       {
+          "SPGDestinationPlatform":"Bulk",
+          "KeySPGDestinationPlatform":2
+       }
+    ],
+    "SampleGridData":{
+       "headerRows":[
+          [
+             "Date",
+             "WTI 16:30 London Eur/Bbl Mo01-CLOSE-AAPYT00",
+             "WTI 16:30 London Eur/Bbl Mo01-HIGH-AAPYT00",
+             "WTI 16:30 London Eur/Bbl Mo01-LOW-AAPYT00",
+             "Dated Brent-CLOSE-PCAAS00",
+             "Dated Brent-HIGH-PCAAS00",
+             "Dated Brent-LOW-PCAAS00",
+             "North Sea Basket-CLOSE-AAGIZ00",
+             "North Sea Basket-HIGH-AAGIZ00",
+             "North Sea Basket-LOW-AAGIZ00",
+             "Gullfaks CIF Rotterdam vs North Sea Dtd Strip-CLOSE-AASAV00",
+             "Gullfaks CIF Rotterdam vs North Sea Dtd Strip-HIGH-AASAV00",
+             "Gullfaks CIF Rotterdam vs North Sea Dtd Strip-LOW-AASAV00"
+          ]
+       ],
+       "bodyRows":[
+          [
+             "1/2/2018",
+             49.94,
+             49.95,
+             49.93,
+             66.6,
+             66.61,
+             66.59,
+             67.09,
+             67.1,
+             67.08,
+             2.25,
+             2.26,
+             2.24
+          ],
+          [
+             "1/3/2018",
+             51.02,
+             51.03,
+             51.01,
+             68.065,
+             68.07,
+             68.06,
+             68.54,
+             68.55,
+             68.53,
+             2.3,
+             2.31,
+             2.29
+          ],
+          [
+             "1/4/2018",
+             51.39,
+             51.4,
+             51.38,
+             68.72,
+             68.73,
+             68.71,
+             69.185,
+             69.19,
+             69.18,
+             2.3,
+             2.31,
+             2.29
+          ],
+          [
+             "1/5/2018",
+             50.915,
+             50.92,
+             50.91,
+             68.165,
+             68.17,
+             68.16,
+             68.55,
+             68.56,
+             68.54,
+             2.3,
+             2.31,
+             2.29
+          ],
+          [
+             "1/8/2018",
+             51.305,
+             51.31,
+             51.3,
+             68.345,
+             68.35,
+             68.34,
+             68.735,
+             68.74,
+             68.73,
+             2.3,
+             2.31,
+             2.29
+          ],
+          [
+             "1/9/2018",
+             52.3,
+             52.31,
+             52.29,
+             69.115,
+             69.12,
+             69.11,
+             69.44,
+             69.45,
+             69.43,
+             2.35,
+             2.36,
+             2.34
+          ],
+          [
+             "1/10/2018",
+             53.015,
+             53.02,
+             53.01,
+             69.94,
+             69.95,
+             69.93,
+             70.29,
+             70.3,
+             70.28,
+             2.35,
+             2.36,
+             2.34
+          ],
+          [
+             "1/11/2018",
+             53.57,
+             53.58,
+             53.56,
+             70.71,
+             70.72,
+             70.7,
+             71.08,
+             71.09,
+             71.07,
+             2.35,
+             2.36,
+             2.34
+          ],
+          [
+             "1/12/2018",
+             52.36,
+             52.37,
+             52.35,
+             69.925,
+             69.93,
+             69.92,
+             70.295,
+             70.3,
+             70.29,
+             2.35,
+             2.36,
+             2.34
+          ],
+          [
+             "1/15/2018",
+             "#N/A",
+             "#N/A",
+             "#N/A",
+             70.495,
+             70.5,
+             70.49,
+             70.91,
+             70.92,
+             70.9,
+             2.35,
+             2.36,
+             2.34
+          ],
+          [
+             "1/16/2018",
+             52.25,
+             52.26,
+             52.24,
+             69.665,
+             69.67,
+             69.66,
+             70.06,
+             70.07,
+             70.05,
+             2.35,
+             2.36,
+             2.34
+          ],
+          [
+             "1/17/2018",
+             52.125,
+             52.13,
+             52.12,
+             69.355,
+             69.36,
+             69.35,
+             69.925,
+             69.93,
+             69.92,
+             2.25,
+             2.26,
+             2.24
+          ]
+       ]
+    },
+    "DictionaryGridData":{
+       "headerRows":[
+          [
+             "Column Name",
+             "Definition"
+          ]
+       ],
+       "bodyRows":[
+          [
+             "Close (c)",
+             "Close or mean price"
+          ],
+          [
+             "High (h)",
+             "High price "
+          ],
+          [
+             "Low (l)",
+             "Low price "
+          ],
+          [
+             "Unspecified (u)",
+             "Index price or as indicated in symbol description "
+          ],
+          [
+             "Ask Price (a)",
+             "Ask price "
+          ],
+          [
+             "Bid Price (b)",
+             "Bid price "
+          ],
+          [
+             "Open Price (o)",
+             "Opening price "
+          ],
+          [
+             "Open Interest (e)",
+             "Number of contracts outstanding "
+          ],
+          [
+             "Volume (w)",
+             "Total traded volume "
+          ],
+          [
+             "Trades (t)",
+             "Deal count or number of trades "
+          ],
+          [
+             "Update Type",
+             "Indicator for event type (add, change, delete etc.). Changelog file only "
+          ],
+          [
+             "Symbol",
+             "A Platts 7-character unique identifier that corresponds to a Market Data price value "
+          ],
+          [
+             "Market Data Category",
+             "Platts Market Data categories in which the symbol is published, separated by pipe (|)"
+          ],
+          [
+             "Description",
+             "Short Platts description for the symbol "
+          ],
+          [
+             "Currency Code",
+             "Three letter code representing the currency of the commodity referenced "
+          ],
+          [
+             "Unit Of Measure",
+             "Code identifying the unit of measure for the numerical data Common Conversion Factor Common conversion factor to convert the data into alternative units"
+          ],
+          [
+             "Common Conversion Function",
+             "Mathematical operator to convert the data into alternative units"
+          ],
+          [
+             "Common Conversion Target Unit",
+             "Code identifying the common conversion target unit of measure "
+          ],
+          [
+             "Publication Frequency Code",
+             "Code representing the frequency of the publication Timestamp Time of day the assessment is taken"
+          ],
+          [
+             "Bates",
+             "Available data items for a particular Symbol"
+          ],
+          [
+             "Decimal Places",
+             "Number of decimal places"
+          ],
+          [
+             "Earliest Value",
+             "Earliest date for which the values are available for a given symbol "
+          ],
+          [
+             "Latest Value",
+             "Latest date for which the values are available for a given symbol "
+          ],
+          [
+             "Active",
+             "Status flag indicating whether the symbol is currently active "
+          ],
+          [
+             "Shipping Terms",
+             "Shipping terms for delivery "
+          ],
+          [
+             "Delivery Method",
+             "Method of transportation for delivery "
+          ],
+          [
+             "Delivery Region",
+             "General region to which the commodity is delivered Delivery Region Basis Basis location to which the commodity is delivered Contract Type"
+          ],
+          [
+             "Settlement Type",
+             "Final settlement method, physical/financial "
+          ],
+          [
+             "Quotation Style",
+             "Prices quotation style "
+          ],
+          [
+             "Commodity",
+             "Generic commodity category "
+          ],
+          [
+             "Commodity Grade",
+             "Specific commodity grade within the commodity category "
+          ],
+          [
+             "Sulfur",
+             "Sulfur content of the commodity in percentage "
+          ],
+          [
+             "Freeze Point",
+             "Freezing point of the commodity in Celsius "
+          ],
+          [
+             "Pour Point",
+             "Pouring point of the commodity in Celsius "
+          ],
+          [
+             "Flash Point",
+             "Flash point of the commodity in Celsius "
+          ],
+          [
+             "RON",
+             "Research Octane Number "
+          ],
+          [
+             "Kinematic Viscosity",
+             "Kinematic viscosity in mm²/s "
+          ],
+          [
+             "Density",
+             "Density of the commodity in kg/m³ "
+          ],
+          [
+             "API Gravity",
+             "Specific gravity as measured in American Petroleum Institute degrees "
+          ],
+          [
+             "Derivative Position",
+             "Derivatives position in the forward curve Derivative Maturity Frequency Duration of the derivative maturity"
+          ],
+          [
+             "Swap Fixed Leg Symbol",
+             "Underlying symbol for the fixed leg of a swap Swap Floating Leg Symbol Underlying symbol for the floating leg of a swap Exchange"
+          ],
+          [
+             "Notional Contract",
+             "Notional contract maturity period "
+          ],
+          [
+             "Standard Lot Size",
+             "Standard size of a contract "
+          ],
+          [
+             "Standard Lot Units",
+             "Code identifying the unit of measurement corresponding to the contract size "
+          ],
+          [
+             "Load Type",
+             "Level of electric power supplied "
+          ]
+       ]
+    }
+ }
