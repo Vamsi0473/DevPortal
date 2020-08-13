@@ -1,0 +1,443 @@
+{
+    "KeyMarketplaceDataset":8,
+    "OnlineImageFilePath":"https://www.spglobal.com/platts/images/logo-platts.png",
+    "MarketplaceShortDescription":"Market Data-Metals is the most efficient way to access Platts latest ferrous and nonferrous metals price assessments, as well as historical data. This service provides customers with access to our end-of-day assessments, corrections and third-party pricing data.",
+    "ThumbnailImageFilePath":"img_marketdata_metals",
+    "SocialSharingImageFilePath":"",
+    "MarketplaceDatasetAdded":"1982-07-01",
+    "MktPlaceDataSetEnhancementDate":"2019-11-09",
+    "MktPlaceDataSetEnhancementDesc":"Trucost data containing global carbon metrics released on Xpressfeed. Coverage includes over 15,000+ public company records, 175+ environmental data points including carbon, water, waste, pollution, energy mix, many dating back to 2005.",
+    "MktPlaceDataSetEnhancementLink":"",
+    "MarketplaceDatasetName":"Platts Market Data - Metals",
+    "MarketplaceLongDescription":"<p>Platts Market Data-Metals is the most efficient way to receive access to the latest ferrous and nonferrous price assessments as well as historical data from Platts. This service provides customers with access to our end-of-day assessments, corrections and third-party data.</p><p>With Platts Market Data – Metals, you receive:</p><ul><li>The latest steel and steel raw materials prices — including Platts and TSI steel, scrap, iron ore and coking coal global price assessment data, as well as the unified Platts IODEX and TSI 62% Fe iron ore benchmark </li><li>The latest nonferrous metals prices — including Platts major metals, ferroalloys, minor metals, nonferrous scrap, and precious metal prices.  The dataset provides Platts benchmark US Aluminum Transaction and Molybdenum Dealer Oxide assessments </li><li>Historical data — Complete or customized historical data sets are readily available to help you understand market trends</li></ul><p>Coverage includes:</p> <ul><li>Platts and TSI steel, scrap, iron ore and coking coal assessments</li><li>Platts assessed iron ore and metallurgical coal forward curves, quality differentials, and brand assessments</li><li>The unified Platts IODEX and TSI 62% Fe benchmark iron ore price</li><li>Platts and TSI Premium Hard and Premium Low Vol benchmark coking coal assessments</li><li>Ferroalloys, metallurgical coal and steel/ferrous metals spreads</li><li>Platts Aluminum Transaction Premium benchmarks for US and Japan</li><li>Technology Metals such as Lithium Hydroxide and Cobalt Sulfate</li><li>Copper and all other base metals</li><li>Light and Minor metals such as magnesium, titanium, rhenium and indium</li><li>Precious metals such as gold, silver and PGMs</li></ul>",
+    "MarketplaceDataProvider":"S&P Global Platts",
+    "MarketplaceDataProviderDesc":"S&P Global Platts is the leading independent provider of information, benchmark prices and analytics for the energy and commodities markets. For over 100 years, we&apos;ve brought clarity and transparency to the energy and commodities markets, enabling companies, governments and individuals to act with conviction.",
+    "MaskSPGDestinationPlatform":64,
+    "EarliestRecord":1930,
+    "EarliestSignificantCoverage":1973,
+    "EstimatedDatasetSize":0,
+    "EstimatedDatasetStorage":0,
+    "MarketplaceDataSource":"",
+    "OverviewImageFilePath":"",
+    "PointInTime":true,
+    "PointInTimeDescription":"Offers the timestamp of when a specific price is assessed or corrected",
+    "SampleDataLink":"8E3E2BC8-DA15-4E04-87B0-AA7DA28B06A3",
+    "DataDictionaryLink":"2CB06321-E5A3-4726-87CE-923413CA3ADA",
+    "SwaggerInfo":"MarketDataMetals",
+    "MarketDatasetDatasets":[
+       {
+          "KeyMarketplaceDatasetRelated":1,
+          "KeyMarketplaceDataset":2,
+          "FormOrder":1
+       },
+       {
+          "KeyMarketplaceDatasetRelated":10,
+          "KeyMarketplaceDataset":2,
+          "FormOrder":1
+       },
+       {
+          "KeyMarketplaceDatasetRelated":7,
+          "KeyMarketplaceDataset":2,
+          "FormOrder":1
+       },
+       {
+          "KeyMarketplaceDatasetRelated":4,
+          "KeyMarketplaceDataset":2,
+          "FormOrder":1
+       }
+    ],
+    "MarketDatasetSearchTags":[
+       {
+          "KeyMarketplaceSearchTag":1,
+          "MarketplaceSearchTag":{
+             "MarketplaceSearchTag":"Market Data"
+          }
+       }
+    ],
+    "MarketplaceDatasetFieldCount":{
+       "MarketplaceDatasetFieldCount":""
+    },
+    "SPGCoverageType":"Commodity",
+    "SPGDatasetFrequency":"Intraday",
+    "SPGDatasetLatency":"Intraday",
+    "DeliveryChannelData":"API, Bulk, Streaming",
+    "GeographicCoverageData":"Global",
+    "IndustryCoverageData":"Energy and Utilities",
+    "CoverageCountData":0,
+    "MarketDatasetResearchs":[
+ 
+    ],
+    "MarketDatasetMIIndustrys":[
+       {
+          "KeyMIIndustryTree":0,
+          "MIIndustryTree":{
+             "IndustryLongName":"All"
+          }
+       }
+    ],
+    "MarketDatasetGeographys":[
+       {
+          "KeyGeographyTree":5,
+          "GeographyTree":{
+             "TreeID":5,
+             "GlobalRegion":{
+                "GlobalRegion":"All"
+             }
+          }
+       }
+    ],
+    "ActiveMarketplaceDatasetNote":true,
+    "MarketSPGDestinationPlatform":[
+       {
+          "SPGDestinationPlatform":"FTP",
+          "KeySPGDestinationPlatform":1
+       },
+       {
+          "SPGDestinationPlatform":"API",
+          "KeySPGDestinationPlatform":2
+       },
+       {
+          "SPGDestinationPlatform":"Platts Excel Add-In",
+          "KeySPGDestinationPlatform":3
+       }
+    ],
+    "SampleGridData":{
+       "headerRows":[
+          [
+             "Date",
+             "Platts TSI Shredded Scrap Delivered US Midwest USD/LT-FEMWD00-Close",
+             "Iron Ore Spot Lump Premium China $/dmtu-IOCLP00-Close",
+             "Iron Ore Spot Lump Premium China $/dmtu-IOCLP00-High",
+             "Iron Ore Spot Lump Premium China $/dmtu-IOCLP00-Low",
+             "IODEX CFR CHINA 62% Fe $/DMt-IODBZ00-Close",
+             "IODEX CFR CHINA 62% Fe $/DMt-IODBZ00-High",
+             "IODEX CFR CHINA 62% Fe $/DMt-IODBZ00-Low",
+             "Steel Rebar FOB Turkey $/Mt-STCBM00-Close",
+             "Steel Rebar FOB Turkey $/Mt-STCBM00-High",
+             "Steel Rebar FOB Turkey $/Mt-STCBM00-Low"
+          ]
+       ],
+       "bodyRows":[
+          [
+             "10-Jan-2020",
+             300.5,
+             0.2645,
+             0.265,
+             0.264,
+             93.25,
+             93.75,
+             92.75,
+             441,
+             442,
+             440
+          ],
+          [
+             "09-Jan-2020",
+             300.5,
+             0.25,
+             0.255,
+             0.245,
+             93.4,
+             93.9,
+             92.9,
+             441,
+             442,
+             440
+          ],
+          [
+             "08-Jan-2020",
+             300.5,
+             0.2535,
+             0.2585,
+             0.2485,
+             95.65,
+             96.15,
+             95.15,
+             441,
+             442,
+             440
+          ],
+          [
+             "07-Jan-2020",
+             299.75,
+             0.235,
+             0.24,
+             0.23,
+             94,
+             94.25,
+             93.75,
+             442.5,
+             443,
+             442
+          ],
+          [
+             "06-Jan-2020",
+             298.25,
+             0.235,
+             0.24,
+             0.23,
+             94,
+             94.5,
+             93.5,
+             444,
+             445,
+             443
+          ],
+          [
+             "03-Jan-2020",
+             270.5,
+             0.235,
+             0.24,
+             0.23,
+             93.9,
+             94.15,
+             93.65,
+             445,
+             447.5,
+             442.5
+          ],
+          [
+             "02-Jan-2020",
+             270.5,
+             0.235,
+             0.24,
+             0.23,
+             93.2,
+             93.45,
+             92.95,
+             447.5,
+             450,
+             445
+          ],
+          [
+             "31-Dec-2019",
+             270.5,
+             0.235,
+             0.24,
+             0.23,
+             91.95,
+             92.2,
+             91.7,
+             449.5,
+             450,
+             449
+          ],
+          [
+             "30-Dec-2019",
+             270.5,
+             0.235,
+             0.245,
+             0.225,
+             90.75,
+             91.25,
+             90.25,
+             449.5,
+             450,
+             449
+          ],
+          [
+             "27-Dec-2019",
+             270.5,
+             0.24,
+             0.25,
+             0.23,
+             90.5,
+             91,
+             90,
+             449.5,
+             450,
+             449
+          ]
+       ]
+    },
+    "DictionaryGridData":{
+       "headerRows":[
+          [
+             "Column Name",
+             "Definition"
+          ]
+       ],
+       "bodyRows":[
+          [
+             "Close (c)",
+             "Close or mean price"
+          ],
+          [
+             "High (h)",
+             "High price "
+          ],
+          [
+             "Low (l)",
+             "Low price "
+          ],
+          [
+             "Unspecified (u)",
+             "Index price or as indicated in symbol description "
+          ],
+          [
+             "Ask Price (a)",
+             "Ask price "
+          ],
+          [
+             "Bid Price (b)",
+             "Bid price "
+          ],
+          [
+             "Open Price (o)",
+             "Opening price "
+          ],
+          [
+             "Open Interest (e)",
+             "Number of contracts outstanding "
+          ],
+          [
+             "Volume (w)",
+             "Total traded volume "
+          ],
+          [
+             "Trades (t)",
+             "Deal count or number of trades "
+          ],
+          [
+             "Update Type",
+             "Indicator for event type (add, change, delete etc.). Changelog file only "
+          ],
+          [
+             "Symbol",
+             "A Platts 7-character unique identifier that corresponds to a Market Data price value "
+          ],
+          [
+             "Market Data Category",
+             "Platts Market Data categories in which the symbol is published, separated by pipe (|)"
+          ],
+          [
+             "Description",
+             "Short Platts description for the symbol "
+          ],
+          [
+             "Currency Code",
+             "Three letter code representing the currency of the commodity referenced "
+          ],
+          [
+             "Unit Of Measure",
+             "Code identifying the unit of measure for the numerical data Common Conversion Factor Common conversion factor to convert the data into alternative units"
+          ],
+          [
+             "Common Conversion Function",
+             "Mathematical operator to convert the data into alternative units"
+          ],
+          [
+             "Common Conversion Target Unit",
+             "Code identifying the common conversion target unit of measure "
+          ],
+          [
+             "Publication Frequency Code",
+             "Code representing the frequency of the publication Timestamp Time of day the assessment is taken"
+          ],
+          [
+             "Bates",
+             "Available data items for a particular Symbol"
+          ],
+          [
+             "Decimal Places",
+             "Number of decimal places"
+          ],
+          [
+             "Earliest Value",
+             "Earliest date for which the values are available for a given symbol "
+          ],
+          [
+             "Latest Value",
+             "Latest date for which the values are available for a given symbol "
+          ],
+          [
+             "Active",
+             "Status flag indicating whether the symbol is currently active "
+          ],
+          [
+             "Shipping Terms",
+             "Shipping terms for delivery "
+          ],
+          [
+             "Delivery Method",
+             "Method of transportation for delivery "
+          ],
+          [
+             "Delivery Region",
+             "General region to which the commodity is delivered Delivery Region Basis Basis location to which the commodity is delivered Contract Type"
+          ],
+          [
+             "Settlement Type",
+             "Final settlement method, physical/financial "
+          ],
+          [
+             "Quotation Style",
+             "Prices quotation style "
+          ],
+          [
+             "Commodity",
+             "Generic commodity category "
+          ],
+          [
+             "Commodity Grade",
+             "Specific commodity grade within the commodity category "
+          ],
+          [
+             "Sulfur",
+             "Sulfur content of the commodity in percentage "
+          ],
+          [
+             "Freeze Point",
+             "Freezing point of the commodity in Celsius "
+          ],
+          [
+             "Pour Point",
+             "Pouring point of the commodity in Celsius "
+          ],
+          [
+             "Flash Point",
+             "Flash point of the commodity in Celsius "
+          ],
+          [
+             "RON",
+             "Research Octane Number "
+          ],
+          [
+             "Kinematic Viscosity",
+             "Kinematic viscosity in mm²/s "
+          ],
+          [
+             "Density",
+             "Density of the commodity in kg/m³ "
+          ],
+          [
+             "API Gravity",
+             "Specific gravity as measured in American Petroleum Institute degrees "
+          ],
+          [
+             "Derivative Position",
+             "Derivatives position in the forward curve Derivative Maturity Frequency Duration of the derivative maturity"
+          ],
+          [
+             "Swap Fixed Leg Symbol",
+             "Underlying symbol for the fixed leg of a swap Swap Floating Leg Symbol Underlying symbol for the floating leg of a swap Exchange"
+          ],
+          [
+             "Notional Contract",
+             "Notional contract maturity period "
+          ],
+          [
+             "Standard Lot Size",
+             "Standard size of a contract "
+          ],
+          [
+             "Standard Lot Units",
+             "Code identifying the unit of measurement corresponding to the contract size "
+          ],
+          [
+             "Load Type",
+             "Level of electric power supplied "
+          ]
+       ]
+    }
+ }
